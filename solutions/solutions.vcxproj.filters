@@ -30,12 +30,18 @@
     <ClCompile Include="number_of_islands.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="find_all_groups_of_farmland.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="number_of_islands.h">
+      <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="find_all_groups_of_farmland.h">
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>
