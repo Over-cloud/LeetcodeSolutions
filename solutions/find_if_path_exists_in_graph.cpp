@@ -4,12 +4,9 @@
 #include <unordered_set>
 #include <queue>
 
-#include <iostream>
-
 bool FindIfPathExistsInGraph::validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-	cout << "entering FindIfPathExistsInGraph" << endl;
 	unordered_map<int, vector<int>> map;
-	for (auto edge : edges) {
+	for (auto &edge : edges) {
 		map[edge[0]].push_back(edge[1]);
 		map[edge[1]].push_back(edge[0]);
 	}
@@ -22,13 +19,12 @@ bool FindIfPathExistsInGraph::validPath(int n, vector<vector<int>>& edges, int s
 
 	while (!queue.empty()) {
 		int curr = queue.front();
-		cout << curr << endl;
 		if (curr == destination) {
 			return true;
 		}
 		queue.pop();
 
-		for (auto next : map[curr]) {
+		for (auto &next : map[curr]) {
 			if (visited.find(next) == visited.end()) {
 				queue.push(next);
 				visited.insert(next);
