@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="find_all_groups_of_farmland.cpp" />
+    <ClCompile Include="find_if_path_exists_in_graph.cpp" />
     <ClCompile Include="greetings.cpp" />
     <ClCompile Include="number_of_islands.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="find_if_path_exists_in_graph.h" />
     <ClInclude Include="find_all_groups_of_farmland.h" />
     <ClInclude Include="greetings.h" />
     <ClInclude Include="number_of_islands.h" />

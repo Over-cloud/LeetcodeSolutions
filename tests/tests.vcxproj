@@ -100,6 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test_find_all_groups_of_farmland.cpp" />
+    <ClCompile Include="test_find_if_path_exists_in_graph.cpp" />
     <ClCompile Include="test_greetings.cpp" />
     <ClCompile Include="test_number_of_islands.cpp" />
     <ClCompile Include="pch.cpp">
