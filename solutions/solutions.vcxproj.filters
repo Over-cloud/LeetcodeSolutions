@@ -25,6 +25,12 @@
     <Filter Include="Source Files\Graph">
       <UniqueIdentifier>{a2d176de-9907-4f91-9ceb-1c49c1115ed7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Sequence">
+      <UniqueIdentifier>{61643868-6d63-4fea-9069-fb3dcefa9b25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sequence">
+      <UniqueIdentifier>{7fa2406b-c23f-4033-9c11-a88c0b9398f6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -48,6 +54,9 @@
     <ClCompile Include="minimum_height_trees.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="nth_tribonacci_number.cpp">
+      <Filter>Source Files\Sequence</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -67,6 +76,9 @@
     </ClInclude>
     <ClInclude Include="minimum_height_trees.h">
       <Filter>Header Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="nth_tribonacci_number.h">
+      <Filter>Header Files\Sequence</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
