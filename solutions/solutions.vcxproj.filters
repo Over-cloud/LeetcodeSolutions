@@ -31,6 +31,12 @@
     <Filter Include="Source Files\Sequence">
       <UniqueIdentifier>{7fa2406b-c23f-4033-9c11-a88c0b9398f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Strings">
+      <UniqueIdentifier>{f7ac6e81-23ae-46e8-87ef-df47bd30d16c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Strings">
+      <UniqueIdentifier>{2815c0ce-7adf-4fbb-8f8b-2ad39e173b27}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -57,6 +63,9 @@
     <ClCompile Include="nth_tribonacci_number.cpp">
       <Filter>Source Files\Sequence</Filter>
     </ClCompile>
+    <ClCompile Include="longest_ideal_subsequence.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -79,6 +88,9 @@
     </ClInclude>
     <ClInclude Include="nth_tribonacci_number.h">
       <Filter>Header Files\Sequence</Filter>
+    </ClInclude>
+    <ClInclude Include="longest_ideal_subsequence.h">
+      <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
