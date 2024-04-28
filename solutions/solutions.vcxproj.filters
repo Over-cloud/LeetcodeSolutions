@@ -66,6 +66,12 @@
     <ClCompile Include="longest_ideal_subsequence.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="minimum_falling_path_sum_II.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="freedom_trail.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -90,6 +96,12 @@
       <Filter>Header Files\Sequence</Filter>
     </ClInclude>
     <ClInclude Include="longest_ideal_subsequence.h">
+      <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum_falling_path_sum_II.h">
+      <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="freedom_trail.h">
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
