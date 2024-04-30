@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -134,10 +135,13 @@
     <ClCompile Include="longest_ideal_subsequence.cpp" />
     <ClCompile Include="minimum_falling_path_sum_II.cpp" />
     <ClCompile Include="minimum_height_trees.cpp" />
+    <ClCompile Include="minimum_operations_to_make_array_xor_equal_to_k.cpp" />
     <ClCompile Include="nth_tribonacci_number.cpp" />
     <ClCompile Include="number_of_islands.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="number_of_wonderful_substrings.cpp" />
     <ClCompile Include="open_the_lock.cpp" />
+    <ClCompile Include="sum_of_distances_in_tree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="find_if_path_exists_in_graph.h" />
@@ -147,9 +151,12 @@
     <ClInclude Include="longest_ideal_subsequence.h" />
     <ClInclude Include="minimum_falling_path_sum_II.h" />
     <ClInclude Include="minimum_height_trees.h" />
+    <ClInclude Include="minimum_operations_to_make_array_xor_equal_to_k.h" />
     <ClInclude Include="nth_tribonacci_number.h" />
     <ClInclude Include="number_of_islands.h" />
+    <ClInclude Include="number_of_wonderful_substrings.h" />
     <ClInclude Include="open_the_lock.h" />
+    <ClInclude Include="sum_of_distances_in_tree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

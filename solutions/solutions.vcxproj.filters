@@ -37,6 +37,12 @@
     <Filter Include="Source Files\Strings">
       <UniqueIdentifier>{2815c0ce-7adf-4fbb-8f8b-2ad39e173b27}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Binary">
+      <UniqueIdentifier>{ab0642e0-8035-4542-9e62-7f50479ccc14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Binary">
+      <UniqueIdentifier>{7da1eae6-dfc0-4ed0-bfcd-f78dfc8292c4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -72,6 +78,15 @@
     <ClCompile Include="freedom_trail.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="sum_of_distances_in_tree.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum_operations_to_make_array_xor_equal_to_k.cpp">
+      <Filter>Source Files\Binary</Filter>
+    </ClCompile>
+    <ClCompile Include="number_of_wonderful_substrings.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -102,6 +117,15 @@
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
     <ClInclude Include="freedom_trail.h">
+      <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="sum_of_distances_in_tree.h">
+      <Filter>Header Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum_operations_to_make_array_xor_equal_to_k.h">
+      <Filter>Header Files\Binary</Filter>
+    </ClInclude>
+    <ClInclude Include="number_of_wonderful_substrings.h">
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
