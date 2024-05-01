@@ -3,22 +3,24 @@
 #include "../solutions/minimum_falling_path_sum_II.cpp"
 
 namespace {
+    using namespace MinimumPathSumII;
+
     TEST(MinimumFallingPathSumIITest, EmptyGrid) {
         vector<vector<int>> grid;
         int total = 0;
-        EXPECT_EQ(total, MinimumPathSumII::minFallingPathSum(grid));
+        EXPECT_EQ(total, minFallingPathSum(grid));
     }
 
     TEST(MinimumFallingPathSumIITest, SingleElement) {
         vector<vector<int>> grid = { {7} };
         int total = 7;
-        EXPECT_EQ(total, MinimumPathSumII::minFallingPathSum(grid));
+        EXPECT_EQ(total, minFallingPathSum(grid));
     }
 
     TEST(MinimumFallingPathSumIITest, Example1) {
         vector<vector<int>> grid = { {1, 2, 3}, {4, 5, 6}, {7, 8, 9} };
         int total = 13;
-        EXPECT_EQ(total, MinimumPathSumII::minFallingPathSum(grid));
+        EXPECT_EQ(total, minFallingPathSum(grid));
     }
 
     TEST(MinimumFallingPathSumIITest, Secret1) {
@@ -30,7 +32,7 @@ namespace {
             {97, 91, 61, -46, 67}
         };
         int total = -192;
-        EXPECT_EQ(total, MinimumPathSumII::minFallingPathSum(grid));
+        EXPECT_EQ(total, minFallingPathSum(grid));
     }
 
     TEST(MinimumFallingPathSumIITest, Secret2) {
@@ -42,6 +44,6 @@ namespace {
             {-60, -71, -21, -62, -73}
         };
         int total = -268;
-        EXPECT_EQ(total, MinimumPathSumII::minFallingPathSum(grid));
+        EXPECT_EQ(total, minFallingPathSum(grid));
     }
 }

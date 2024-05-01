@@ -3,7 +3,6 @@
 #include "../solutions/find_all_groups_of_farmland.cpp"
 
 namespace {
-
     FindAllGroupsOfFarmland solution;
 
     TEST(FindAllGroupsOfFarmlandTest, EmptyGrid) {

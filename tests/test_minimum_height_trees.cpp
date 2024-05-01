@@ -3,11 +3,13 @@
 #include "../solutions/minimum_height_trees.cpp"
 
 namespace {
+    using namespace MinimumHeightTrees;
+
     TEST(MinimumHeightTreesTest, SingleNode) {
         int n = 1;
         vector<vector<int>> edges;
         vector<int> output = { 0 };
-        EXPECT_EQ(output, MinimumHeightTrees::findMinHeightTrees(n, edges));
+        EXPECT_EQ(output, findMinHeightTrees(n, edges));
     }
 
     TEST(MinimumHeightTreesTest, Example1) {
@@ -18,7 +20,7 @@ namespace {
             {1, 3}
         };
         vector<int> output = { 1 };
-        EXPECT_EQ(output, MinimumHeightTrees::findMinHeightTrees(n, edges));
+        EXPECT_EQ(output, findMinHeightTrees(n, edges));
     }
 
     TEST(MinimumHeightTreesTest, Example2) {
@@ -31,6 +33,6 @@ namespace {
             {5, 4}
         };
         vector<int> output = { 3, 4 };
-        EXPECT_EQ(output, MinimumHeightTrees::findMinHeightTrees(n, edges));
+        EXPECT_EQ(output, findMinHeightTrees(n, edges));
     }
 }
