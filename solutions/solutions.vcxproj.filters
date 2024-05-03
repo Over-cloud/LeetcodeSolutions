@@ -90,6 +90,9 @@
     <ClCompile Include="reverse_prefix_of_word.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="compare_version_numbers.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -132,6 +135,9 @@
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
     <ClInclude Include="reverse_prefix_of_word.h">
+      <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="compare_version_numbers.h">
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
