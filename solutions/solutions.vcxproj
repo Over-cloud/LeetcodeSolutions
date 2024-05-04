@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="boats_to_save_peoople.cpp" />
     <ClCompile Include="compare_version_numbers.cpp" />
     <ClCompile Include="find_all_groups_of_farmland.cpp" />
     <ClCompile Include="find_if_path_exists_in_graph.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="sum_of_distances_in_tree.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="boats_to_save_peoople.h" />
     <ClInclude Include="compare_version_numbers.h" />
     <ClInclude Include="find_if_path_exists_in_graph.h" />
     <ClInclude Include="find_all_groups_of_farmland.h" />

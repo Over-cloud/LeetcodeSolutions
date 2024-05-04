@@ -93,6 +93,9 @@
     <ClCompile Include="compare_version_numbers.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="boats_to_save_peoople.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -139,6 +142,9 @@
     </ClInclude>
     <ClInclude Include="compare_version_numbers.h">
       <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="boats_to_save_peoople.h">
+      <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

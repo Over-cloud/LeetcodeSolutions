@@ -8,6 +8,7 @@ namespace CompareVersionNumbers {
 
 		return compareVersion(ver1, ver2);
 	}
+
 	// Parse version string into vector of integers
 	void parse(const string& version, vector<int>& arr) {
 		if (version.empty()) return;
@@ -20,6 +21,7 @@ namespace CompareVersionNumbers {
 			pos = (next == string::npos) ? next : next + 1;
 		}
 	}
+
 	// Compare two version vectors
 	int compareVersion(vector<int>& ver1, vector<int>& ver2) {
 		size_t maxSize = max(ver1.size(), ver2.size());
