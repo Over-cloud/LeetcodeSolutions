@@ -130,10 +130,12 @@
   <ItemGroup>
     <ClCompile Include="boats_to_save_peoople.cpp" />
     <ClCompile Include="compare_version_numbers.cpp" />
+    <ClCompile Include="delete_node_in_linked_list.cpp" />
     <ClCompile Include="find_all_groups_of_farmland.cpp" />
     <ClCompile Include="find_if_path_exists_in_graph.cpp" />
     <ClCompile Include="freedom_trail.cpp" />
     <ClCompile Include="greetings.cpp" />
+    <ClCompile Include="linked_list.cpp" />
     <ClCompile Include="longest_ideal_subsequence.cpp" />
     <ClCompile Include="minimum_falling_path_sum_II.cpp" />
     <ClCompile Include="minimum_height_trees.cpp" />
@@ -149,10 +151,12 @@
   <ItemGroup>
     <ClInclude Include="boats_to_save_peoople.h" />
     <ClInclude Include="compare_version_numbers.h" />
+    <ClInclude Include="delete_node_in_linked_list.h" />
     <ClInclude Include="find_if_path_exists_in_graph.h" />
     <ClInclude Include="find_all_groups_of_farmland.h" />
     <ClInclude Include="freedom_trail.h" />
     <ClInclude Include="greetings.h" />
+    <ClInclude Include="linked_list.h" />
     <ClInclude Include="longest_ideal_subsequence.h" />
     <ClInclude Include="minimum_falling_path_sum_II.h" />
     <ClInclude Include="minimum_height_trees.h" />

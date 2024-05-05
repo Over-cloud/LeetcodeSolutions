@@ -43,6 +43,18 @@
     <Filter Include="Source Files\Binary">
       <UniqueIdentifier>{7da1eae6-dfc0-4ed0-bfcd-f78dfc8292c4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\LinkedList">
+      <UniqueIdentifier>{861372fa-abe1-4a22-99f3-9885f5fc68e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LinkedList">
+      <UniqueIdentifier>{823f31ed-11af-495a-a6e2-cd8bc1233ccc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tools">
+      <UniqueIdentifier>{66513180-b68f-4e6b-882e-2792b13b6f9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools">
+      <UniqueIdentifier>{a3160cc0-9bec-4585-9951-a40214442ec1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -96,6 +108,12 @@
     <ClCompile Include="boats_to_save_peoople.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="delete_node_in_linked_list.cpp">
+      <Filter>Source Files\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="linked_list.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -145,6 +163,12 @@
     </ClInclude>
     <ClInclude Include="boats_to_save_peoople.h">
       <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="delete_node_in_linked_list.h">
+      <Filter>Header Files\LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="linked_list.h">
+      <Filter>Header Files\Tools</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
