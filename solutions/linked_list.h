@@ -21,6 +21,7 @@ public:
 	ListNode* getNode(int x) const;
 	void add_back(int x);
 	vector<int> as_vec() const;
+	static vector<int> as_vec(ListNode* head);
 
 private:
 	ListNode* head{ nullptr };
