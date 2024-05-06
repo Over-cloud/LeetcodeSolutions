@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="test_boats_to_save_peoople.cpp" />
+    <ClCompile Include="test_compare_version_numbers.cpp" />
+    <ClCompile Include="test_delete_node_in_linked_list.cpp" />
+    <ClCompile Include="test_find_all_groups_of_farmland.cpp" />
+    <ClCompile Include="test_find_if_path_exists_in_graph.cpp" />
+    <ClCompile Include="test_freedom_trail.cpp" />
+    <ClCompile Include="test_greetings.cpp" />
+    <ClCompile Include="test_longest_ideal_subsequence.cpp" />
+    <ClCompile Include="test_minimum_falling_path_sum_II.cpp" />
+    <ClCompile Include="test_minimum_height_trees.cpp" />
+    <ClCompile Include="test_minimum_operations_to_make_array_xor_equal_to_k.cpp" />
+    <ClCompile Include="test_nth_tribonacci_number.cpp" />
+    <ClCompile Include="test_number_of_islands.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="test_number_of_wonderful_substrings.cpp" />
+    <ClCompile Include="test_open_the_lock.cpp" />
+    <ClCompile Include="test_reverse_prefix_of_word.cpp" />
+    <ClCompile Include="test_sum_of_distances_in_tree.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

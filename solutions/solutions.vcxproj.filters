@@ -49,11 +49,8 @@
     <Filter Include="Source Files\LinkedList">
       <UniqueIdentifier>{823f31ed-11af-495a-a6e2-cd8bc1233ccc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files\Tools">
-      <UniqueIdentifier>{66513180-b68f-4e6b-882e-2792b13b6f9e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Tools">
-      <UniqueIdentifier>{a3160cc0-9bec-4585-9951-a40214442ec1}</UniqueIdentifier>
+    <Filter Include="Tools">
+      <UniqueIdentifier>{277a4dbc-f117-41f4-bf6b-c839b0651c8c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -111,8 +108,11 @@
     <ClCompile Include="delete_node_in_linked_list.cpp">
       <Filter>Source Files\LinkedList</Filter>
     </ClCompile>
+    <ClCompile Include="remove_nodes_from_linked_list.cpp">
+      <Filter>Source Files\LinkedList</Filter>
+    </ClCompile>
     <ClCompile Include="linked_list.cpp">
-      <Filter>Source Files\Tools</Filter>
+      <Filter>Tools</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -167,8 +167,11 @@
     <ClInclude Include="delete_node_in_linked_list.h">
       <Filter>Header Files\LinkedList</Filter>
     </ClInclude>
+    <ClInclude Include="remove_nodes_from_linked_list.h">
+      <Filter>Header Files\LinkedList</Filter>
+    </ClInclude>
     <ClInclude Include="linked_list.h">
-      <Filter>Header Files\Tools</Filter>
+      <Filter>Tools</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
