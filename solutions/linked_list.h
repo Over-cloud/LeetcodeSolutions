@@ -17,14 +17,14 @@ public:
 	LinkedList(vector<int> arr);
 	~LinkedList();
 
-	ListNode* getHead();
-	ListNode* getNode(int x);
+	ListNode* getHead() const;
+	ListNode* getNode(int x) const;
 	void add_back(int x);
-	vector<int> as_vec();
+	vector<int> as_vec() const;
 
 private:
 	ListNode* head{ nullptr };
 	ListNode* tail{ nullptr };
-	unordered_map<int, ListNode*> map;
+	unordered_map<int, vector<ListNode*>> map;
 };
 
