@@ -24,5 +24,8 @@ namespace {
         vector<int> output = LinkedList::as_vec(head);
         vector<int> expected = { 1, 9, 9, 8 };
         EXPECT_EQ(expected, output);
+
+        delete(head);
+        head = nullptr;
     }
 }
