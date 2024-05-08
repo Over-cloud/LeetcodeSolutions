@@ -122,6 +122,7 @@
     </ClCompile>
     <ClCompile Include="test_number_of_wonderful_substrings.cpp" />
     <ClCompile Include="test_open_the_lock.cpp" />
+    <ClCompile Include="test_relative_ranks.cpp" />
     <ClCompile Include="test_remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="test_reverse_prefix_of_word.cpp" />
     <ClCompile Include="test_sum_of_distances_in_tree.cpp" />

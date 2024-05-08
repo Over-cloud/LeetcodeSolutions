@@ -21,6 +21,7 @@
     <ClCompile Include="test_sum_of_distances_in_tree.cpp" />
     <ClCompile Include="test_remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="test_double_a_number_represented_by_a_linked_list.cpp" />
+    <ClCompile Include="test_relative_ranks.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
