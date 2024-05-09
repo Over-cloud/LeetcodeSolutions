@@ -109,6 +109,7 @@
     <ClCompile Include="test_freedom_trail.cpp" />
     <ClCompile Include="test_greetings.cpp" />
     <ClCompile Include="test_longest_ideal_subsequence.cpp" />
+    <ClCompile Include="test_maximize_happiness_of_selected_children.cpp" />
     <ClCompile Include="test_minimum_falling_path_sum_II.cpp" />
     <ClCompile Include="test_minimum_height_trees.cpp" />
     <ClCompile Include="test_minimum_operations_to_make_array_xor_equal_to_k.cpp" />

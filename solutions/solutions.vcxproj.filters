@@ -120,6 +120,9 @@
     <ClCompile Include="relative_ranks.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="maximize_happiness_of_selected_children.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -184,6 +187,9 @@
     </ClInclude>
     <ClInclude Include="relative_ranks.h">
       <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="maximize_happiness_of_selected_children.h">
+      <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

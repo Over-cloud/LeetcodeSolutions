@@ -22,6 +22,7 @@
     <ClCompile Include="test_remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="test_double_a_number_represented_by_a_linked_list.cpp" />
     <ClCompile Include="test_relative_ranks.cpp" />
+    <ClCompile Include="test_maximize_happiness_of_selected_children.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
