@@ -123,6 +123,12 @@
     <ClCompile Include="maximize_happiness_of_selected_children.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="kth_smallest_prime_fraction.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="largest_local_values_in_a_matrix.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -189,6 +195,12 @@
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
     <ClInclude Include="maximize_happiness_of_selected_children.h">
+      <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="kth_smallest_prime_fraction.h">
+      <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="largest_local_values_in_a_matrix.h">
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>

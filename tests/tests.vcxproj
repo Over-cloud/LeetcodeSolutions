@@ -108,6 +108,8 @@
     <ClCompile Include="test_find_if_path_exists_in_graph.cpp" />
     <ClCompile Include="test_freedom_trail.cpp" />
     <ClCompile Include="test_greetings.cpp" />
+    <ClCompile Include="test_kth_smallest_prime_fraction.cpp" />
+    <ClCompile Include="test_largest_local_values_in_a_matrix.cpp" />
     <ClCompile Include="test_longest_ideal_subsequence.cpp" />
     <ClCompile Include="test_maximize_happiness_of_selected_children.cpp" />
     <ClCompile Include="test_minimum_falling_path_sum_II.cpp" />
