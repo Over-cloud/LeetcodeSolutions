@@ -25,6 +25,7 @@
     <ClCompile Include="test_maximize_happiness_of_selected_children.cpp" />
     <ClCompile Include="test_kth_smallest_prime_fraction.cpp" />
     <ClCompile Include="test_largest_local_values_in_a_matrix.cpp" />
+    <ClCompile Include="test_score_after_flipping_matrix.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
