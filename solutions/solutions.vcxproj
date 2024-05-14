@@ -149,6 +149,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="number_of_wonderful_substrings.cpp" />
     <ClCompile Include="open_the_lock.cpp" />
+    <ClCompile Include="path_with_maximum_gold.cpp" />
     <ClCompile Include="relative_ranks.cpp" />
     <ClCompile Include="remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="reverse_prefix_of_word.cpp" />
@@ -176,6 +177,7 @@
     <ClInclude Include="number_of_islands.h" />
     <ClInclude Include="number_of_wonderful_substrings.h" />
     <ClInclude Include="open_the_lock.h" />
+    <ClInclude Include="path_with_maximum_gold.h" />
     <ClInclude Include="relative_ranks.h" />
     <ClInclude Include="remove_nodes_from_linked_list.h" />
     <ClInclude Include="reverse_prefix_of_word.h" />
