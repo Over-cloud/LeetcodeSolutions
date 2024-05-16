@@ -134,6 +134,7 @@
     <ClCompile Include="double_a_number_represented_by_a_linked_list.cpp" />
     <ClCompile Include="find_all_groups_of_farmland.cpp" />
     <ClCompile Include="find_if_path_exists_in_graph.cpp" />
+    <ClCompile Include="find_the_safest_path_in_the_grid.cpp" />
     <ClCompile Include="freedom_trail.cpp" />
     <ClCompile Include="greetings.cpp" />
     <ClCompile Include="kth_smallest_prime_fraction.cpp" />
@@ -163,6 +164,7 @@
     <ClInclude Include="double_a_number_represented_by_a_linked_list.h" />
     <ClInclude Include="find_if_path_exists_in_graph.h" />
     <ClInclude Include="find_all_groups_of_farmland.h" />
+    <ClInclude Include="find_the_safest_path_in_the_grid.h" />
     <ClInclude Include="freedom_trail.h" />
     <ClInclude Include="greetings.h" />
     <ClInclude Include="kth_smallest_prime_fraction.h" />

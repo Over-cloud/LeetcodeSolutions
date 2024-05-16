@@ -106,6 +106,7 @@
     <ClCompile Include="test_double_a_number_represented_by_a_linked_list.cpp" />
     <ClCompile Include="test_find_all_groups_of_farmland.cpp" />
     <ClCompile Include="test_find_if_path_exists_in_graph.cpp" />
+    <ClCompile Include="test_find_the_safest_path_in_the_grid.cpp" />
     <ClCompile Include="test_freedom_trail.cpp" />
     <ClCompile Include="test_greetings.cpp" />
     <ClCompile Include="test_kth_smallest_prime_fraction.cpp" />

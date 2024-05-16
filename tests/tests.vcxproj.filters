@@ -27,6 +27,7 @@
     <ClCompile Include="test_largest_local_values_in_a_matrix.cpp" />
     <ClCompile Include="test_score_after_flipping_matrix.cpp" />
     <ClCompile Include="test_path_with_maximum_gold.cpp" />
+    <ClCompile Include="test_find_the_safest_path_in_the_grid.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
