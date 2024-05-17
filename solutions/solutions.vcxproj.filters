@@ -138,6 +138,9 @@
     <ClCompile Include="find_the_safest_path_in_the_grid.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="evaluate_boolean_binary_tree.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -220,6 +223,12 @@
     </ClInclude>
     <ClInclude Include="find_the_safest_path_in_the_grid.h">
       <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="evaluate_boolean_binary_tree.h">
+      <Filter>Header Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="binary_tree.h">
+      <Filter>Tools</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

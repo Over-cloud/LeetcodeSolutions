@@ -24,6 +24,3 @@ namespace FindTheSafestPathInTheGrid {
 	// Helpers
 	vector<vector<int>> computeDistance(const vector<vector<int>>& grid);
 }
-
-
-

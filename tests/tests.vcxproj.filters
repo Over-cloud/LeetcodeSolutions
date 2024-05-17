@@ -28,6 +28,7 @@
     <ClCompile Include="test_score_after_flipping_matrix.cpp" />
     <ClCompile Include="test_path_with_maximum_gold.cpp" />
     <ClCompile Include="test_find_the_safest_path_in_the_grid.cpp" />
+    <ClCompile Include="test_evaluate_boolean_binary_tree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

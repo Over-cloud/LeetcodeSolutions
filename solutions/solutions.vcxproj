@@ -132,6 +132,7 @@
     <ClCompile Include="compare_version_numbers.cpp" />
     <ClCompile Include="delete_node_in_linked_list.cpp" />
     <ClCompile Include="double_a_number_represented_by_a_linked_list.cpp" />
+    <ClCompile Include="evaluate_boolean_binary_tree.cpp" />
     <ClCompile Include="find_all_groups_of_farmland.cpp" />
     <ClCompile Include="find_if_path_exists_in_graph.cpp" />
     <ClCompile Include="find_the_safest_path_in_the_grid.cpp" />
@@ -158,10 +159,12 @@
     <ClCompile Include="sum_of_distances_in_tree.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="binary_tree.h" />
     <ClInclude Include="boats_to_save_peoople.h" />
     <ClInclude Include="compare_version_numbers.h" />
     <ClInclude Include="delete_node_in_linked_list.h" />
     <ClInclude Include="double_a_number_represented_by_a_linked_list.h" />
+    <ClInclude Include="evaluate_boolean_binary_tree.h" />
     <ClInclude Include="find_if_path_exists_in_graph.h" />
     <ClInclude Include="find_all_groups_of_farmland.h" />
     <ClInclude Include="find_the_safest_path_in_the_grid.h" />
