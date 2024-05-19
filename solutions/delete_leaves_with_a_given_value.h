@@ -12,5 +12,3 @@ namespace DeleteLeavesWithGivenValue {
 
 	TreeNode* removeLeafNodes(TreeNode* root, int target);
 }
-
-

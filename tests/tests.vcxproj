@@ -102,11 +102,14 @@
   <ItemGroup>
     <ClCompile Include="test_boats_to_save_peoople.cpp" />
     <ClCompile Include="test_compare_version_numbers.cpp" />
+    <ClCompile Include="test_delete_leaves_with_a_given_value.cpp" />
     <ClCompile Include="test_delete_node_in_linked_list.cpp" />
+    <ClCompile Include="test_distribute_coins_in_binary_tree.cpp" />
     <ClCompile Include="test_double_a_number_represented_by_a_linked_list.cpp" />
     <ClCompile Include="test_evaluate_boolean_binary_tree.cpp" />
     <ClCompile Include="test_find_all_groups_of_farmland.cpp" />
     <ClCompile Include="test_find_if_path_exists_in_graph.cpp" />
+    <ClCompile Include="test_find_the_maximum_sum_of_node_values.cpp" />
     <ClCompile Include="test_find_the_safest_path_in_the_grid.cpp" />
     <ClCompile Include="test_freedom_trail.cpp" />
     <ClCompile Include="test_greetings.cpp" />

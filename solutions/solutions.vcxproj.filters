@@ -141,6 +141,18 @@
     <ClCompile Include="evaluate_boolean_binary_tree.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="delete_leaves_with_a_given_value.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="distribute_coins_in_binary_tree.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="find_the_maximum_sum_of_node_values.h">
+      <Filter>Header Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="find_the_maximum_sum_of_node_values.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -229,6 +241,12 @@
     </ClInclude>
     <ClInclude Include="binary_tree.h">
       <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="delete_leaves_with_a_given_value.h">
+      <Filter>Header Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="distribute_coins_in_binary_tree.h">
+      <Filter>Header Files\Graph</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
