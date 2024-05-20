@@ -153,6 +153,9 @@
     <ClCompile Include="find_the_maximum_sum_of_node_values.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="sum_of_all_subset_xor_totals.cpp">
+      <Filter>Source Files\Binary</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -247,6 +250,9 @@
     </ClInclude>
     <ClInclude Include="distribute_coins_in_binary_tree.h">
       <Filter>Header Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="sum_of_all_subset_xor_totals.h">
+      <Filter>Header Files\Binary</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
