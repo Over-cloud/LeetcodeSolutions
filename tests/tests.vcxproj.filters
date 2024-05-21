@@ -33,6 +33,7 @@
     <ClCompile Include="test_distribute_coins_in_binary_tree.cpp" />
     <ClCompile Include="test_find_the_maximum_sum_of_node_values.cpp" />
     <ClCompile Include="test_sum_of_all_subset_xor_totals.cpp" />
+    <ClCompile Include="test_subsets.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

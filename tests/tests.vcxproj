@@ -135,6 +135,7 @@
     <ClCompile Include="test_remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="test_reverse_prefix_of_word.cpp" />
     <ClCompile Include="test_score_after_flipping_matrix.cpp" />
+    <ClCompile Include="test_subsets.cpp" />
     <ClCompile Include="test_sum_of_all_subset_xor_totals.cpp" />
     <ClCompile Include="test_sum_of_distances_in_tree.cpp" />
   </ItemGroup>
