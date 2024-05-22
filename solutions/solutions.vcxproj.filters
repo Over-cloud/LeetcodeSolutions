@@ -159,6 +159,9 @@
     <ClCompile Include="subsets.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="palindrome_partitioning.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -258,6 +261,9 @@
       <Filter>Header Files\Binary</Filter>
     </ClInclude>
     <ClInclude Include="subsets.h">
+      <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="palindrome_partitioning.h">
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>
