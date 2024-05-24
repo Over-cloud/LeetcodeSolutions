@@ -6,7 +6,7 @@ namespace {
     using namespace TheNumberOfBeautifulSubsets;
 
     TEST(TheNumberOfBeautifulSubsetsTest, Example1) {
-        vector<int> nums = { 2,4,6,8 };
+        vector<int> nums = { 2,4,6 };
         int k = 2;
         int count = 4;
         EXPECT_EQ(count, beautifulSubsets(nums, k));

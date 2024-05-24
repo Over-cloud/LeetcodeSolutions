@@ -147,6 +147,7 @@
     <ClCompile Include="linked_list.cpp" />
     <ClCompile Include="longest_ideal_subsequence.cpp" />
     <ClCompile Include="maximize_happiness_of_selected_children.cpp" />
+    <ClCompile Include="maximum_score_words_formed_by_letters.cpp" />
     <ClCompile Include="minimum_falling_path_sum_II.cpp" />
     <ClCompile Include="minimum_height_trees.cpp" />
     <ClCompile Include="minimum_operations_to_make_array_xor_equal_to_k.cpp" />
@@ -185,6 +186,7 @@
     <ClInclude Include="linked_list.h" />
     <ClInclude Include="longest_ideal_subsequence.h" />
     <ClInclude Include="maximize_happiness_of_selected_children.h" />
+    <ClInclude Include="maximum_score_words_formed_by_letters.h" />
     <ClInclude Include="minimum_falling_path_sum_II.h" />
     <ClInclude Include="minimum_height_trees.h" />
     <ClInclude Include="minimum_operations_to_make_array_xor_equal_to_k.h" />

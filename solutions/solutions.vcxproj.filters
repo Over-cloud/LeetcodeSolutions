@@ -171,6 +171,9 @@
     <ClCompile Include="the_number_of_beautiful_subsets.cpp">
       <Filter>Source Files\Subset</Filter>
     </ClCompile>
+    <ClCompile Include="maximum_score_words_formed_by_letters.cpp">
+      <Filter>Source Files\Subset</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -276,6 +279,9 @@
       <Filter>Header Files\Subset</Filter>
     </ClInclude>
     <ClInclude Include="the_number_of_beautiful_subsets.h">
+      <Filter>Header Files\Subset</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum_score_words_formed_by_letters.h">
       <Filter>Header Files\Subset</Filter>
     </ClInclude>
   </ItemGroup>
