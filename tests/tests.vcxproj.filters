@@ -35,6 +35,7 @@
     <ClCompile Include="test_sum_of_all_subset_xor_totals.cpp" />
     <ClCompile Include="test_subsets.cpp" />
     <ClCompile Include="test_palindrome_partitioning.cpp" />
+    <ClCompile Include="test_the_number_of_beautiful_subsets.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

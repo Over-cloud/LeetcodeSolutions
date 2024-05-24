@@ -52,6 +52,12 @@
     <Filter Include="Tools">
       <UniqueIdentifier>{277a4dbc-f117-41f4-bf6b-c839b0651c8c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Subset">
+      <UniqueIdentifier>{0f499145-8bd6-4eff-aac2-b18c2ed355e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Subset">
+      <UniqueIdentifier>{6cf084ce-fd8c-42cc-97c8-103e0db13b1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -153,14 +159,17 @@
     <ClCompile Include="find_the_maximum_sum_of_node_values.cpp">
       <Filter>Source Files\Graph</Filter>
     </ClCompile>
-    <ClCompile Include="sum_of_all_subset_xor_totals.cpp">
-      <Filter>Source Files\Binary</Filter>
+    <ClCompile Include="palindrome_partitioning.cpp">
+      <Filter>Source Files\Subset</Filter>
     </ClCompile>
     <ClCompile Include="subsets.cpp">
-      <Filter>Source Files\Arrays</Filter>
+      <Filter>Source Files\Subset</Filter>
     </ClCompile>
-    <ClCompile Include="palindrome_partitioning.cpp">
-      <Filter>Source Files\Arrays</Filter>
+    <ClCompile Include="sum_of_all_subset_xor_totals.cpp">
+      <Filter>Source Files\Subset</Filter>
+    </ClCompile>
+    <ClCompile Include="the_number_of_beautiful_subsets.cpp">
+      <Filter>Source Files\Subset</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -257,14 +266,17 @@
     <ClInclude Include="distribute_coins_in_binary_tree.h">
       <Filter>Header Files\Graph</Filter>
     </ClInclude>
-    <ClInclude Include="sum_of_all_subset_xor_totals.h">
-      <Filter>Header Files\Binary</Filter>
-    </ClInclude>
     <ClInclude Include="subsets.h">
-      <Filter>Header Files\Arrays</Filter>
+      <Filter>Header Files\Subset</Filter>
     </ClInclude>
     <ClInclude Include="palindrome_partitioning.h">
-      <Filter>Header Files\Arrays</Filter>
+      <Filter>Header Files\Subset</Filter>
+    </ClInclude>
+    <ClInclude Include="sum_of_all_subset_xor_totals.h">
+      <Filter>Header Files\Subset</Filter>
+    </ClInclude>
+    <ClInclude Include="the_number_of_beautiful_subsets.h">
+      <Filter>Header Files\Subset</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
