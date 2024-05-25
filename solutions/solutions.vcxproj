@@ -166,6 +166,7 @@
     <ClCompile Include="sum_of_all_subset_xor_totals.cpp" />
     <ClCompile Include="sum_of_distances_in_tree.cpp" />
     <ClCompile Include="the_number_of_beautiful_subsets.cpp" />
+    <ClCompile Include="word_break_II.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="binary_tree.h" />
@@ -204,6 +205,7 @@
     <ClInclude Include="sum_of_all_subset_xor_totals.h" />
     <ClInclude Include="sum_of_distances_in_tree.h" />
     <ClInclude Include="the_number_of_beautiful_subsets.h" />
+    <ClInclude Include="word_break_II.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

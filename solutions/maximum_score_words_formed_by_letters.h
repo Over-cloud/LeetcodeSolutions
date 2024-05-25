@@ -18,4 +18,3 @@ namespace MaximumScoreWordsFormedByLetters {
 	// Helper functions
 	int aux(vector<vector<int>>& w, int i, vector<int>& l, const vector<int>& s, int p);
 }
-
