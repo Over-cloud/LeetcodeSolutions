@@ -58,6 +58,12 @@
     <Filter Include="Source Files\Subset">
       <UniqueIdentifier>{6cf084ce-fd8c-42cc-97c8-103e0db13b1e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\DynamicProgramming">
+      <UniqueIdentifier>{1f3da2a3-5ec8-4655-a7a7-2fc804db35f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DynamicProgramming">
+      <UniqueIdentifier>{41c402b1-05ad-433a-affd-1946f54ca15e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -177,6 +183,12 @@
     <ClCompile Include="word_break_II.cpp">
       <Filter>Source Files\Subset</Filter>
     </ClCompile>
+    <ClCompile Include="student_attendance_record_II.cpp">
+      <Filter>Source Files\DynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="special_array.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -289,6 +301,12 @@
     </ClInclude>
     <ClInclude Include="word_break_II.h">
       <Filter>Header Files\Subset</Filter>
+    </ClInclude>
+    <ClInclude Include="student_attendance_record_II.h">
+      <Filter>Header Files\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="special_array.h">
+      <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

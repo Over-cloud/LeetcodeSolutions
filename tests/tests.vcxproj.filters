@@ -38,6 +38,8 @@
     <ClCompile Include="test_the_number_of_beautiful_subsets.cpp" />
     <ClCompile Include="test_maximum_score_words_formed_by_letters.cpp" />
     <ClCompile Include="test_word_break_II.cpp" />
+    <ClCompile Include="test_student_attendance_record_II.cpp" />
+    <ClCompile Include="test_special_array.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
