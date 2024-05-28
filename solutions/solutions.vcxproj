@@ -141,6 +141,7 @@
     <ClCompile Include="find_the_maximum_sum_of_node_values.h" />
     <ClCompile Include="find_the_safest_path_in_the_grid.cpp" />
     <ClCompile Include="freedom_trail.cpp" />
+    <ClCompile Include="get_equal_substrings_within_budget.cpp" />
     <ClCompile Include="greetings.cpp" />
     <ClCompile Include="kth_smallest_prime_fraction.cpp" />
     <ClCompile Include="largest_local_values_in_a_matrix.cpp" />
@@ -183,6 +184,7 @@
     <ClInclude Include="find_all_groups_of_farmland.h" />
     <ClInclude Include="find_the_safest_path_in_the_grid.h" />
     <ClInclude Include="freedom_trail.h" />
+    <ClInclude Include="get_equal_substrings_within_budget.h" />
     <ClInclude Include="greetings.h" />
     <ClInclude Include="kth_smallest_prime_fraction.h" />
     <ClInclude Include="largest_local_values_in_a_matrix.h" />

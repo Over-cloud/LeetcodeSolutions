@@ -189,6 +189,9 @@
     <ClCompile Include="special_array.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="get_equal_substrings_within_budget.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -307,6 +310,9 @@
     </ClInclude>
     <ClInclude Include="special_array.h">
       <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="get_equal_substrings_within_budget.h">
+      <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
