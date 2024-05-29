@@ -41,6 +41,7 @@
     <ClCompile Include="test_student_attendance_record_II.cpp" />
     <ClCompile Include="test_special_array.cpp" />
     <ClCompile Include="test_get_equal_substrings_within_budget.cpp" />
+    <ClCompile Include="test_reduce_number_to_one.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

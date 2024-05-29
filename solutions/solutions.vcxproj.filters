@@ -192,6 +192,9 @@
     <ClCompile Include="get_equal_substrings_within_budget.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="reduce_number_to_one.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -312,6 +315,9 @@
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
     <ClInclude Include="get_equal_substrings_within_budget.h">
+      <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="reduce_number_to_one.h">
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
