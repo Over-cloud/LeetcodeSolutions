@@ -195,6 +195,9 @@
     <ClCompile Include="reduce_number_to_one.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="count_triplets.cpp">
+      <Filter>Source Files\Binary</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -319,6 +322,9 @@
     </ClInclude>
     <ClInclude Include="reduce_number_to_one.h">
       <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="count_triplets.h">
+      <Filter>Header Files\Binary</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

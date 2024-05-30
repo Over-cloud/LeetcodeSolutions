@@ -102,6 +102,7 @@
   <ItemGroup>
     <ClCompile Include="test_boats_to_save_peoople.cpp" />
     <ClCompile Include="test_compare_version_numbers.cpp" />
+    <ClCompile Include="test_count_triplets.cpp" />
     <ClCompile Include="test_delete_leaves_with_a_given_value.cpp" />
     <ClCompile Include="test_delete_node_in_linked_list.cpp" />
     <ClCompile Include="test_distribute_coins_in_binary_tree.cpp" />

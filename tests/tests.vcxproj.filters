@@ -42,6 +42,7 @@
     <ClCompile Include="test_special_array.cpp" />
     <ClCompile Include="test_get_equal_substrings_within_budget.cpp" />
     <ClCompile Include="test_reduce_number_to_one.cpp" />
+    <ClCompile Include="test_count_triplets.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
