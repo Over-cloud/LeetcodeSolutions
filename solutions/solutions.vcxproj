@@ -165,6 +165,7 @@
     <ClCompile Include="remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="reverse_prefix_of_word.cpp" />
     <ClCompile Include="score_after_flipping_matrix.cpp" />
+    <ClCompile Include="single_number_III.cpp" />
     <ClCompile Include="special_array.cpp" />
     <ClCompile Include="student_attendance_record_II.cpp" />
     <ClCompile Include="subsets.cpp" />
@@ -209,6 +210,7 @@
     <ClInclude Include="remove_nodes_from_linked_list.h" />
     <ClInclude Include="reverse_prefix_of_word.h" />
     <ClInclude Include="score_after_flipping_matrix.h" />
+    <ClInclude Include="single_number_III.h" />
     <ClInclude Include="special_array.h" />
     <ClInclude Include="student_attendance_record_II.h" />
     <ClInclude Include="subsets.h" />

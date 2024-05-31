@@ -140,6 +140,7 @@
     <ClCompile Include="test_remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="test_reverse_prefix_of_word.cpp" />
     <ClCompile Include="test_score_after_flipping_matrix.cpp" />
+    <ClCompile Include="test_single_number_III.cpp" />
     <ClCompile Include="test_special_array.cpp" />
     <ClCompile Include="test_student_attendance_record_II.cpp" />
     <ClCompile Include="test_subsets.cpp" />

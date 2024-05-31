@@ -43,6 +43,7 @@
     <ClCompile Include="test_get_equal_substrings_within_budget.cpp" />
     <ClCompile Include="test_reduce_number_to_one.cpp" />
     <ClCompile Include="test_count_triplets.cpp" />
+    <ClCompile Include="test_single_number_III.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
