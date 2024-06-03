@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="append_characters_to_string_to_make_subsequence.cpp" />
     <ClCompile Include="boats_to_save_peoople.cpp" />
     <ClCompile Include="compare_version_numbers.cpp" />
     <ClCompile Include="count_triplets.cpp" />
@@ -175,6 +176,7 @@
     <ClCompile Include="word_break_II.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="append_characters_to_string_to_make_subsequence.h" />
     <ClInclude Include="binary_tree.h" />
     <ClInclude Include="boats_to_save_peoople.h" />
     <ClInclude Include="compare_version_numbers.h" />

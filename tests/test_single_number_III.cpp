@@ -14,7 +14,6 @@ namespace {
         sort(actual.begin(), actual.end());
         EXPECT_EQ(expected, actual);
     }
-    using namespace SingleNumberIII;
 
     TEST(SingleNumberIIITest, Example2) {
         vector<int> nums = { -1,0 };

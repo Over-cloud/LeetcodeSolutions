@@ -201,6 +201,9 @@
     <ClCompile Include="single_number_III.cpp">
       <Filter>Source Files\Binary</Filter>
     </ClCompile>
+    <ClCompile Include="append_characters_to_string_to_make_subsequence.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -331,6 +334,9 @@
     </ClInclude>
     <ClInclude Include="single_number_III.h">
       <Filter>Header Files\Binary</Filter>
+    </ClInclude>
+    <ClInclude Include="append_characters_to_string_to_make_subsequence.h">
+      <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
