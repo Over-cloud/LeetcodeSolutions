@@ -204,6 +204,9 @@
     <ClCompile Include="append_characters_to_string_to_make_subsequence.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="longest_palindrome.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -336,6 +339,9 @@
       <Filter>Header Files\Binary</Filter>
     </ClInclude>
     <ClInclude Include="append_characters_to_string_to_make_subsequence.h">
+      <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="longest_palindrome.h">
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>

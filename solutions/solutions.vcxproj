@@ -149,6 +149,7 @@
     <ClCompile Include="largest_local_values_in_a_matrix.cpp" />
     <ClCompile Include="linked_list.cpp" />
     <ClCompile Include="longest_ideal_subsequence.cpp" />
+    <ClCompile Include="longest_palindrome.cpp" />
     <ClCompile Include="maximize_happiness_of_selected_children.cpp" />
     <ClCompile Include="maximum_score_words_formed_by_letters.cpp" />
     <ClCompile Include="minimum_falling_path_sum_II.cpp" />
@@ -196,6 +197,7 @@
     <ClInclude Include="largest_local_values_in_a_matrix.h" />
     <ClInclude Include="linked_list.h" />
     <ClInclude Include="longest_ideal_subsequence.h" />
+    <ClInclude Include="longest_palindrome.h" />
     <ClInclude Include="maximize_happiness_of_selected_children.h" />
     <ClInclude Include="maximum_score_words_formed_by_letters.h" />
     <ClInclude Include="minimum_falling_path_sum_II.h" />
