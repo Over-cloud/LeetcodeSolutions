@@ -207,6 +207,9 @@
     <ClCompile Include="longest_palindrome.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="find_common_characters.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -342,6 +345,9 @@
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
     <ClInclude Include="longest_palindrome.h">
+      <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="find_common_characters.h">
       <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>

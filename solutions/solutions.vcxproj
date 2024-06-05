@@ -138,6 +138,7 @@
     <ClCompile Include="double_a_number_represented_by_a_linked_list.cpp" />
     <ClCompile Include="evaluate_boolean_binary_tree.cpp" />
     <ClCompile Include="find_all_groups_of_farmland.cpp" />
+    <ClCompile Include="find_common_characters.cpp" />
     <ClCompile Include="find_if_path_exists_in_graph.cpp" />
     <ClCompile Include="find_the_maximum_sum_of_node_values.cpp" />
     <ClCompile Include="find_the_maximum_sum_of_node_values.h" />
@@ -187,6 +188,7 @@
     <ClInclude Include="distribute_coins_in_binary_tree.h" />
     <ClInclude Include="double_a_number_represented_by_a_linked_list.h" />
     <ClInclude Include="evaluate_boolean_binary_tree.h" />
+    <ClInclude Include="find_common_characters.h" />
     <ClInclude Include="find_if_path_exists_in_graph.h" />
     <ClInclude Include="find_all_groups_of_farmland.h" />
     <ClInclude Include="find_the_safest_path_in_the_grid.h" />
