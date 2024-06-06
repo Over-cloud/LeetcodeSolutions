@@ -47,6 +47,7 @@
     <ClCompile Include="test_append_characters_to_string_to_make_subsequence.cpp" />
     <ClCompile Include="test_longest_palindrome.cpp" />
     <ClCompile Include="test_find_common_characters.cpp" />
+    <ClCompile Include="test_hand_of_straights.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

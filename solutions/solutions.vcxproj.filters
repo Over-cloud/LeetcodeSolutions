@@ -210,6 +210,9 @@
     <ClCompile Include="find_common_characters.cpp">
       <Filter>Source Files\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="hand_of_straights.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -349,6 +352,9 @@
     </ClInclude>
     <ClInclude Include="find_common_characters.h">
       <Filter>Header Files\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="hand_of_straights.h">
+      <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

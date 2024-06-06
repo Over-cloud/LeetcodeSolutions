@@ -146,6 +146,7 @@
     <ClCompile Include="freedom_trail.cpp" />
     <ClCompile Include="get_equal_substrings_within_budget.cpp" />
     <ClCompile Include="greetings.cpp" />
+    <ClCompile Include="hand_of_straights.cpp" />
     <ClCompile Include="kth_smallest_prime_fraction.cpp" />
     <ClCompile Include="largest_local_values_in_a_matrix.cpp" />
     <ClCompile Include="linked_list.cpp" />
@@ -181,6 +182,7 @@
     <ClInclude Include="append_characters_to_string_to_make_subsequence.h" />
     <ClInclude Include="binary_tree.h" />
     <ClInclude Include="boats_to_save_peoople.h" />
+    <ClInclude Include="hand_of_straights.h" />
     <ClInclude Include="compare_version_numbers.h" />
     <ClInclude Include="count_triplets.h" />
     <ClInclude Include="delete_leaves_with_a_given_value.h" />

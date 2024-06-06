@@ -117,6 +117,7 @@
     <ClCompile Include="test_freedom_trail.cpp" />
     <ClCompile Include="test_get_equal_substrings_within_budget.cpp" />
     <ClCompile Include="test_greetings.cpp" />
+    <ClCompile Include="test_hand_of_straights.cpp" />
     <ClCompile Include="test_kth_smallest_prime_fraction.cpp" />
     <ClCompile Include="test_largest_local_values_in_a_matrix.cpp" />
     <ClCompile Include="test_longest_ideal_subsequence.cpp" />
