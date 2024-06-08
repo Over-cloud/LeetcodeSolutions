@@ -131,6 +131,7 @@
     <ClCompile Include="append_characters_to_string_to_make_subsequence.cpp" />
     <ClCompile Include="boats_to_save_peoople.cpp" />
     <ClCompile Include="compare_version_numbers.cpp" />
+    <ClCompile Include="continuous_subarray_sum.cpp" />
     <ClCompile Include="count_triplets.cpp" />
     <ClCompile Include="delete_leaves_with_a_given_value.cpp" />
     <ClCompile Include="delete_node_in_linked_list.cpp" />
@@ -184,6 +185,7 @@
     <ClInclude Include="append_characters_to_string_to_make_subsequence.h" />
     <ClInclude Include="binary_tree.h" />
     <ClInclude Include="boats_to_save_peoople.h" />
+    <ClInclude Include="continuous_subarray_sum.h" />
     <ClInclude Include="hand_of_straights.h" />
     <ClInclude Include="compare_version_numbers.h" />
     <ClInclude Include="count_triplets.h" />

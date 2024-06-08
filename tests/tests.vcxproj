@@ -103,6 +103,7 @@
     <ClCompile Include="test_append_characters_to_string_to_make_subsequence.cpp" />
     <ClCompile Include="test_boats_to_save_peoople.cpp" />
     <ClCompile Include="test_compare_version_numbers.cpp" />
+    <ClCompile Include="test_continuous_subarray_sum.cpp" />
     <ClCompile Include="test_count_triplets.cpp" />
     <ClCompile Include="test_delete_leaves_with_a_given_value.cpp" />
     <ClCompile Include="test_delete_node_in_linked_list.cpp" />

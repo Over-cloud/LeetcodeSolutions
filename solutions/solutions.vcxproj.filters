@@ -219,6 +219,9 @@
     <ClCompile Include="trie.cpp">
       <Filter>Tools</Filter>
     </ClCompile>
+    <ClCompile Include="continuous_subarray_sum.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -367,6 +370,9 @@
     </ClInclude>
     <ClInclude Include="trie.h">
       <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="continuous_subarray_sum.h">
+      <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
