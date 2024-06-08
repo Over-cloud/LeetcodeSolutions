@@ -48,6 +48,7 @@
     <ClCompile Include="test_longest_palindrome.cpp" />
     <ClCompile Include="test_find_common_characters.cpp" />
     <ClCompile Include="test_hand_of_straights.cpp" />
+    <ClCompile Include="test_replace_words.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

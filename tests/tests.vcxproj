@@ -142,6 +142,7 @@
     <ClCompile Include="test_reduce_number_to_one.cpp" />
     <ClCompile Include="test_relative_ranks.cpp" />
     <ClCompile Include="test_remove_nodes_from_linked_list.cpp" />
+    <ClCompile Include="test_replace_words.cpp" />
     <ClCompile Include="test_reverse_prefix_of_word.cpp" />
     <ClCompile Include="test_score_after_flipping_matrix.cpp" />
     <ClCompile Include="test_single_number_III.cpp" />

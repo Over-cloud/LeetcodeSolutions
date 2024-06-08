@@ -213,6 +213,12 @@
     <ClCompile Include="hand_of_straights.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="replace_words.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="trie.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -355,6 +361,12 @@
     </ClInclude>
     <ClInclude Include="hand_of_straights.h">
       <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="replace_words.h">
+      <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="trie.h">
+      <Filter>Tools</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
