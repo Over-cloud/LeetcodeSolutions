@@ -50,6 +50,7 @@
     <ClCompile Include="test_hand_of_straights.cpp" />
     <ClCompile Include="test_replace_words.cpp" />
     <ClCompile Include="test_continuous_subarray_sum.cpp" />
+    <ClCompile Include="test_subarray_sums_divisible_by_k.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
