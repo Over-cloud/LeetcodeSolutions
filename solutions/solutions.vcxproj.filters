@@ -225,6 +225,9 @@
     <ClCompile Include="subarray_sums_divisible_by_k.cpp">
       <Filter>Source Files\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="relative_sort_array.cpp">
+      <Filter>Source Files\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -378,6 +381,9 @@
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
     <ClInclude Include="subarray_sums_divisible_by_k.h">
+      <Filter>Header Files\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="relative_sort_array.h">
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
   </ItemGroup>

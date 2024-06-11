@@ -142,6 +142,7 @@
     <ClCompile Include="test_path_with_maximum_gold.cpp" />
     <ClCompile Include="test_reduce_number_to_one.cpp" />
     <ClCompile Include="test_relative_ranks.cpp" />
+    <ClCompile Include="test_relative_sort_array.cpp" />
     <ClCompile Include="test_remove_nodes_from_linked_list.cpp" />
     <ClCompile Include="test_replace_words.cpp" />
     <ClCompile Include="test_reverse_prefix_of_word.cpp" />
