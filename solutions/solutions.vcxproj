@@ -151,6 +151,7 @@
     <ClCompile Include="kth_smallest_prime_fraction.cpp" />
     <ClCompile Include="largest_local_values_in_a_matrix.cpp" />
     <ClCompile Include="linked_list.cpp" />
+    <ClCompile Include="longest_continuous_subarray.cpp" />
     <ClCompile Include="longest_ideal_subsequence.cpp" />
     <ClCompile Include="longest_palindrome.cpp" />
     <ClCompile Include="maximize_happiness_of_selected_children.cpp" />
@@ -206,6 +207,7 @@
     <ClInclude Include="kth_smallest_prime_fraction.h" />
     <ClInclude Include="largest_local_values_in_a_matrix.h" />
     <ClInclude Include="linked_list.h" />
+    <ClInclude Include="longest_continuous_subarray.h" />
     <ClInclude Include="longest_ideal_subsequence.h" />
     <ClInclude Include="longest_palindrome.h" />
     <ClInclude Include="maximize_happiness_of_selected_children.h" />
