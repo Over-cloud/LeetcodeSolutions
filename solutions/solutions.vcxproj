@@ -165,6 +165,7 @@
     <ClCompile Include="number_of_wonderful_substrings.cpp" />
     <ClCompile Include="open_the_lock.cpp" />
     <ClCompile Include="palindrome_partitioning.cpp" />
+    <ClCompile Include="pass_the_pillow.cpp" />
     <ClCompile Include="path_with_maximum_gold.cpp" />
     <ClCompile Include="reduce_number_to_one.cpp" />
     <ClCompile Include="relative_ranks.cpp" />
@@ -220,6 +221,7 @@
     <ClInclude Include="number_of_wonderful_substrings.h" />
     <ClInclude Include="open_the_lock.h" />
     <ClInclude Include="palindrome_partitioning.h" />
+    <ClInclude Include="pass_the_pillow.h" />
     <ClInclude Include="path_with_maximum_gold.h" />
     <ClInclude Include="reduce_number_to_one.h" />
     <ClInclude Include="relative_ranks.h" />

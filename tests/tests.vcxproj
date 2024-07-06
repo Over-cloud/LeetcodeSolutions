@@ -140,6 +140,7 @@
     <ClCompile Include="test_number_of_wonderful_substrings.cpp" />
     <ClCompile Include="test_open_the_lock.cpp" />
     <ClCompile Include="test_palindrome_partitioning.cpp" />
+    <ClCompile Include="test_pass_the_pillow.cpp" />
     <ClCompile Include="test_path_with_maximum_gold.cpp" />
     <ClCompile Include="test_reduce_number_to_one.cpp" />
     <ClCompile Include="test_relative_ranks.cpp" />

@@ -53,6 +53,7 @@
     <ClCompile Include="test_subarray_sums_divisible_by_k.cpp" />
     <ClCompile Include="test_relative_sort_array.cpp" />
     <ClCompile Include="test_longest_continuous_subarray.cpp" />
+    <ClCompile Include="test_pass_the_pillow.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
