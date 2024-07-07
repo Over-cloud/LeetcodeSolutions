@@ -157,6 +157,7 @@
     <ClCompile Include="test_sum_of_all_subset_xor_totals.cpp" />
     <ClCompile Include="test_sum_of_distances_in_tree.cpp" />
     <ClCompile Include="test_the_number_of_beautiful_subsets.cpp" />
+    <ClCompile Include="test_water_bottles.cpp" />
     <ClCompile Include="test_word_break_II.cpp" />
   </ItemGroup>
   <ItemGroup>

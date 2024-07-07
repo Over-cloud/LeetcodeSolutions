@@ -234,6 +234,9 @@
     <ClCompile Include="pass_the_pillow.cpp">
       <Filter>Source Files\Sequence</Filter>
     </ClCompile>
+    <ClCompile Include="water_bottles.cpp">
+      <Filter>Source Files\Sequence</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -396,6 +399,9 @@
       <Filter>Header Files\Arrays</Filter>
     </ClInclude>
     <ClInclude Include="pass_the_pillow.h">
+      <Filter>Header Files\Sequence</Filter>
+    </ClInclude>
+    <ClInclude Include="water_bottles.h">
       <Filter>Header Files\Sequence</Filter>
     </ClInclude>
   </ItemGroup>
