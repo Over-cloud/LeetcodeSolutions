@@ -160,6 +160,7 @@
     <ClCompile Include="minimum_height_trees.cpp" />
     <ClCompile Include="minimum_operations_to_make_array_xor_equal_to_k.cpp" />
     <ClCompile Include="nth_tribonacci_number.cpp" />
+    <ClCompile Include="number_of_atoms.cpp" />
     <ClCompile Include="number_of_islands.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="number_of_wonderful_substrings.cpp" />
@@ -218,6 +219,7 @@
     <ClInclude Include="minimum_height_trees.h" />
     <ClInclude Include="minimum_operations_to_make_array_xor_equal_to_k.h" />
     <ClInclude Include="nth_tribonacci_number.h" />
+    <ClInclude Include="number_of_atoms.h" />
     <ClInclude Include="number_of_islands.h" />
     <ClInclude Include="number_of_wonderful_substrings.h" />
     <ClInclude Include="open_the_lock.h" />

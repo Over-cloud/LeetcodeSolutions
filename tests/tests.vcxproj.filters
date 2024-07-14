@@ -55,6 +55,7 @@
     <ClCompile Include="test_longest_continuous_subarray.cpp" />
     <ClCompile Include="test_pass_the_pillow.cpp" />
     <ClCompile Include="test_water_bottles.cpp" />
+    <ClCompile Include="test_number_of_atoms.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

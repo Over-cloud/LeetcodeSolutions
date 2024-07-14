@@ -130,6 +130,7 @@
     <ClCompile Include="test_minimum_height_trees.cpp" />
     <ClCompile Include="test_minimum_operations_to_make_array_xor_equal_to_k.cpp" />
     <ClCompile Include="test_nth_tribonacci_number.cpp" />
+    <ClCompile Include="test_number_of_atoms.cpp" />
     <ClCompile Include="test_number_of_islands.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

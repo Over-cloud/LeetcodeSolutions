@@ -237,6 +237,9 @@
     <ClCompile Include="water_bottles.cpp">
       <Filter>Source Files\Sequence</Filter>
     </ClCompile>
+    <ClCompile Include="number_of_atoms.cpp">
+      <Filter>Source Files\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="greetings.h">
@@ -403,6 +406,9 @@
     </ClInclude>
     <ClInclude Include="water_bottles.h">
       <Filter>Header Files\Sequence</Filter>
+    </ClInclude>
+    <ClInclude Include="number_of_atoms.h">
+      <Filter>Header Files\Strings</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
